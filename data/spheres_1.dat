@@ -1,0 +1,6 @@
+// format: x y z radius color_R color_G color_B alpha diffuse_coefficient specular_coefficient phong_exponent (please don't delete this line)
+4
+-0.5  -0.5  0.5   0.3        255 0   0   1        0.5    300     25
+0.7   0.7   -0.5  0.3        255 255 0   1        1      0        1
+0     0.6   0.5   0.3        0   0   255 1        0      300     25
+0     0     0     0.9        255 255 255 0.6      0.5    300     25

@@ -1,0 +1,3 @@
+/cygdrive/d/Billy/b编程练习/C++/Computer Graphics/hw1-ray_tracer/build/CMakeFiles/edit_cache.dir
+/cygdrive/d/Billy/b编程练习/C++/Computer Graphics/hw1-ray_tracer/build/CMakeFiles/Assignment1_bin.dir
+/cygdrive/d/Billy/b编程练习/C++/Computer Graphics/hw1-ray_tracer/build/CMakeFiles/rebuild_cache.dir
