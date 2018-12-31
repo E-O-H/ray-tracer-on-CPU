@@ -1,3 +1,3 @@
-# Assignment_1 [![Build Status](https://travis-ci.com/NYUGraphics/assignment1-E-O-H.svg?token=WpWd3rP8DEgVZ7poywV2&branch=master)](https://travis-ci.com/NYUGraphics/assignment1-E-O-H)
+# Assignment_1 [![Build Status](https://travis-ci.com/E-O-H/ray-tracer-on-CPU.svg?branch=master)](https://travis-ci.com/E-O-H/ray-tracer-on-CPU)
 Ray Tracing
 
