@@ -7,7 +7,7 @@
 #include <cmath>
 
 // Image writing library
-#define STB_IMAGE_WRITE_IMPLEMENTATION // Do not include this line twice in your project!
+#define STB_IMAGE_WRITE_IMPLEMENTATION
 #include "stb_image_write.h"
 #include "utils.h"
 
